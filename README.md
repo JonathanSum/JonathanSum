@@ -1,7 +1,7 @@
 Greeting. Just be yourself😃
 
  
-Don't forget to check out my projects and repo in below👇.
+Don't forget to check out my projects and repo in below👇
 
 
 <div style = "
