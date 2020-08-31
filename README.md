@@ -1,6 +1,6 @@
-Greeting.
+Greeting. Just be yourself😃
 
-Just be yourself😃 
+ 
 Don't forget to check out my projects and repo.
 
 
