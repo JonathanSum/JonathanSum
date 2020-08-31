@@ -1,7 +1,7 @@
 Greeting.
 
 Just be yourself😃 
-
+Don't forget to check out my projects and repo.
 
 
 <div style = "
@@ -28,4 +28,4 @@ Just be yourself😃
 
   </div>
 </div>
-Don't forget to check out my project and repo.
+
