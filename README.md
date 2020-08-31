@@ -3,5 +3,12 @@ Greeting.
 Just be yourself😃 If you need something, please just ask.😊
 
 
-<img align="left" width="50%" height="50%" src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg">
-<img align="right" width="50%" height="50%" src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true">
+
+<div style = "float:left">
+    <div class="imageContainer">
+        <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg" height="200" width="200" />
+    </div>
+    <div class="imageContainer">
+        <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg" src="/images/tv.gif"/ height="200" width="200" />
+    </div>
+</div>
