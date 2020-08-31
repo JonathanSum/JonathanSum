@@ -29,3 +29,7 @@ Don't forget to check out my projects and repo.
   </div>
 </div>
 
+<p></p>
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg?raw=true" width="10%">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="10%">
+<p></p>
