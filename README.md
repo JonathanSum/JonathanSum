@@ -28,4 +28,4 @@ Just be yourself😃 If you need something, please just ask.😊
 
   </div>
 </div>
-Don't forget to check out my project and repo
+Don't forget to check out my project and repo.
