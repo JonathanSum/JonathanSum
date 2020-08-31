@@ -1,6 +1,6 @@
 Greeting.
 
-Just be yourself😃 If you need something, please just ask.😊
+Just be yourself😃 
 
 
 
