@@ -4,8 +4,27 @@ Just be yourself😃 If you need something, please just ask.😊
 
 
 
-<figure class="half" style="display:flex">
-    <img style="width:400px" src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg">
-    <img style="width:600px" src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg">
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+<div style = "
+  content: "";
+  clear: both;
+  display: table;
+">
+  <div style="  float: left;
+  width: 33.33%;
+  padding: 5px;
+  ">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg?raw=true"  style="width:100%">
+  </div>
+  <div style="  float: left;
+  width: 33.33%;
+  padding: 5px;
+  ">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="63.7%" style="width:20%">
+  </div>
+  <div style="  float: left;
+  width: 33.33%;
+  padding: 5px;
+  ">
+
+  </div>
+</div>
