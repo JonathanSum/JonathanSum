@@ -28,4 +28,6 @@ Don't forget to check out my projects and repo in below👇
 
   </div>
 </div>
-
+<address>
+<a href="mailto:777JonathanSum@gmail.com">Email Me</a>.<br>
+</address>
