@@ -28,6 +28,7 @@ Don't forget to check out my projects and repo in below👇
 
   </div>
 </div>
+<p>I forget where I found these images, so let me avoid citing it for this moment.</p>
 <address>
 <a href="mailto:777JonathanSum@gmail.com">Contact: 777JonathanSum@gmail.com</a><br>
 </address>
