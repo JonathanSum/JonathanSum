@@ -34,3 +34,4 @@ Don't forget to check out my projects and repo in below👇
 </address>
 
 Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fastai, Pytorch Lighting examples
+Don't forget to check out my projects and repo in below👇
