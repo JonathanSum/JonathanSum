@@ -31,4 +31,6 @@ Greeting. Just be yourself😃
 </address>
 
 Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fastai, Pytorch Lighting examples
+<br>
 Don't forget to check out my projects and repo in below👇
+For example, coloring with deeplearning.
