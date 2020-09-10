@@ -1,4 +1,4 @@
-Greeting. Just be yourself😃
+Greeting. Just be yourself😃 If you have s personal project that needs a help, please feel free to ask me.
 
 
 <div style = "
