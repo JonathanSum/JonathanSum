@@ -34,5 +34,7 @@ If you have s personal project that needs a help, please feel free to ask me.
 
 Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fastai, Pytorch Lighting examples
 <br>
+
+
 Don't forget to check out my projects and repo in below👇
 For example, coloring with deeplearning.
