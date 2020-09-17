@@ -28,7 +28,7 @@ If you have s personal project that needs a help, please feel free to ask me.
   </div>
 
 </div>
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 <p>I forget where I found these images, so let me avoid citing it for this moment.</p>
 <address>
 <a href="mailto:777JonathanSum@gmail.com">Contact: 777JonathanSum@gmail.com</a><br>
