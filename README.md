@@ -28,7 +28,7 @@ If you have s personal project that needs a help, please feel free to ask me.
   </div>
 
 </div>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/SnNN937Pb2o/hqdefault.jpg)](https://www.youtube.com/watch?v=jW84Vn9rRa0)
 <p>I forget where I found these images, so let me avoid citing it for this moment.</p>
 <address>
 <a href="mailto:777JonathanSum@gmail.com">Contact: 777JonathanSum@gmail.com</a><br>
