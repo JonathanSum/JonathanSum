@@ -39,4 +39,4 @@ Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fa
 
 Don't forget to check out my projects and repo in below👇
 For example, coloring with deeplearning.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jW84Vn9rRa0/0.jpg)](https://www.youtube.com/watch?v=jW84Vn9rRa0)
+
