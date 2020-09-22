@@ -1,7 +1,8 @@
 Greeting. Just be yourself😃 
 
 If you have s personal project that needs a help, please feel free to ask me.
-
+Don't forget to check out my projects and repo in below👇
+For example, coloring with deeplearning, or possible NLP and Graph NN in future.
 
 <div style = "
   content: "";
@@ -18,7 +19,7 @@ If you have s personal project that needs a help, please feel free to ask me.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="70%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="70%" style="float: left">
   </div>
   <div style="  float: left;
   width: 33.33%;
@@ -38,5 +39,4 @@ Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fa
 
 
 Don't forget to check out my projects and repo in below👇
-For example, coloring with deeplearning.
-
+For example, coloring with deeplearning, or possible NLP and Graph NN in future.
