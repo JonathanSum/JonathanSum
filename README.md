@@ -12,13 +12,13 @@ If you have s personal project that needs a help, please feel free to ask me.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg?raw=true" width="50%">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg?raw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="50%" style="float: left">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
