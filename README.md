@@ -13,13 +13,13 @@ For example, coloring with deeplearning, or possible NLP and Graph NN in future.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/112.jpg?raw=true" width="70%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/shoko (5).png?raw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/111.jpg?raw=true" width="70%" style="float: left">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/shoko (4).jpg?raw=true" width="70%" style="float: left">
   </div>
   <div style="  float: left;
   width: 33.33%;
