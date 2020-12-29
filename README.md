@@ -13,7 +13,7 @@ For example, coloring with deeplearning, or possible NLP and Graph NN in future.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/m (8).jpg?raw=true" width="15%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/m (8).jpg?raw=true" width="20%" >
     <img src="https://github.com/JonathanSum/JonathanSum/blob/master/hsl_p1.gif?raw=true" width="70%" >
     <img src="https://github.com/JonathanSum/JonathanSum/blob/master/m (4).jpg?raw=true" width="70%" >
   </div>
