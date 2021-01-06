@@ -1,4 +1,4 @@
-Greeting. Just be yourself because of Love💖 and Freedom🆓
+Greeting. Just be yourself for Love💖 and Freedom🆓
 
 Goal on 2021:
 Master of NLP in Transformer and more.
