@@ -1,8 +1,14 @@
-Greeting. Just be yourself😃 
+Greeting. Just be yourself because of Love💖 and Freedom🆓
 
-If you have s personal project that needs a help, please feel free to ask me.
-Don't forget to check out my projects and repo in below👇
-For example, coloring with deeplearning, or possible NLP and Graph NN in future.
+Goal on 2021:
+Master of NLP in Transformer and more.
+Graph NN
+Gaming project with Deep learning.
+Build more project on Deep learning about Anime.
+Other Deep learning project.
+Learn more Deep learning topic.
+
+For every Anime I love, I will build more Deep learning project on them.
 
 <div style = "
   content: "";
