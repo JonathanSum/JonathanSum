@@ -31,7 +31,7 @@ For every Anime I love, I will build more Deep learning project on them.
   </div>
 
 </div>
-<p>At the end, I have been trying to become the person who is not me; I have been trying to remove myself; I laughed everyone, and ha ha~. At the end, I am the most funniest.</p>
+<p>It should be:  At the end, I have been trying to become the person who is not me; I have been trying to remove myself; I laughed at everyone, and ha ha~. In the end, I am the funniest.</p>
 <p>I forget where I found these images, so let me avoid citing it for this moment.</p>
 <address>
 <a href="mailto:777JonathanSum@gmail.com">Contact: 777JonathanSum@gmail.com</a><br>
