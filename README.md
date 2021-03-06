@@ -21,6 +21,7 @@ For every Anime I love, I will build more Deep learning project on them.
   ">
     <img src="https://github.com/JonathanSum/JonathanSum/blob/master/hsl_p1.gif?raw=true" width="70%" >
     <img src="https://github.com/JonathanSum/JonathanSum/blob/master/k1.gif?raw=true" width="100%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/k2.png?raw=true" width="50%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
