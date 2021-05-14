@@ -19,8 +19,8 @@ For every Anime I love, I will build more Deep learning project on them.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://preview.redd.it/zlfzlpab7a161.jpg?width=768&format=pjpg?raw=true" width="70%" >
-    <img src="https://preview.redd.it/gzf7ap0c7a161.jpg?width=768&format=pjpg?raw=true" width="70%" >
+    <img src="https://preview.redd.it/zlfzlpab7a161.jpg?width=768&format=pjpg&auto=webp&s=fa5a6688d3dfdc4aaa15d14effc7f305bf73fc6d?raw=true" width="70%" >
+    <img src="https://preview.redd.it/gzf7ap0c7a161.jpg?width=768&format=pjpg&auto=webp&s=011504caa2023393ccc2cd8216cc356f60528fa3?raw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
