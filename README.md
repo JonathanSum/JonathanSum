@@ -19,8 +19,7 @@ For every Anime I love, I will build more Deep learning project on them.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/kf0.jpg?raw=trueraw=true" width="70%" >
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/kf1.jpg?raw=true?raw=true" width="70%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/open-source.jpg?raw=trueraw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
