@@ -1,14 +1,5 @@
 Greeting.
 
-Goal on 2021:
-Master of NLP in Transformer and more.
-Graph NN
-Gaming project with Deep learning.
-Build more project on Deep learning about Anime.
-Other Deep learning project.
-Learn more Deep learning topic.
-
-
 [Image classifier project with Reactjs in the bowser only](https://github.com/JonathanSum/JavaScriptClassifier)<br>
 <img src="https://raw.githubusercontent.com/JonathanSum/JonathanSum/master/hsl_p1.gif"><br>
 
@@ -51,3 +42,17 @@ Daily Goal: Learn from Random Places, PPUU, Transformer(minGPT and Coursera), Fa
 
 Don't forget to check out my projects and repo in below👇
 For example, coloring with deeplearning, or possible NLP and Graph NN in future.
+
+
+Goal on 2021:
+Master of NLP in Transformer and more.
+
+Graph NN
+
+Gaming project with Deep learning.
+
+Build more project on Deep learning about Anime.
+
+Other Deep learning project.
+
+Learn more Deep learning topic.
