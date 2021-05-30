@@ -22,7 +22,7 @@ Here is one of my image classifier project with Reactjs<br>
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/github.jpg?raw=trueraw=true" width="70%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/github - 1.jpg?raw=trueraw=true" width="70%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
