@@ -34,7 +34,7 @@ Learn more Deep learning topic.
   </div>
 
 </div>
-<p>I forget where I found these images, so let me avoid citing it for this moment.</p>
+<p>Of couse I am not the author of this comic image in above, and I forgot the author name.</p>
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
 
