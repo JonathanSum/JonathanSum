@@ -36,11 +36,8 @@ Learn more Deep learning topic.
 </div>
 <p>I forget where I found these images, so let me avoid citing it for this moment.</p>
 
-<br>
-
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
 
-<br>
 <img src="https://aws1.discourse-cdn.com/dlai/original/2X/4/4d9002169504a17db2fbf6e2a702fb04ab875f9e.jpeg" width="20%"><br>
 <img src="https://aws1.discourse-cdn.com/dlai/optimized/2X/3/34fce8e01f7d84b67004ea512dce3c8848d029f6_2_666x500.jpeg" width="20%"><br>
 
