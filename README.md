@@ -5,27 +5,8 @@ Greeting.
 
 
 
-<div style = "
-  content: "";
-  clear: both;
-  display: table;
-">
-  <div style="  float: left;
-  width: 33.33%;
-  padding: 5px;
-  ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/github - 1.jpg?raw=trueraw=true" width="70%" >
-  </div>
-  <div style="  float: left;
-  width: 33.33%;
-  padding: 5px;
-  ">
 
 
-  </div>
-
-</div>
-<p>Of couse I am not the author of this comic image in above, and I forgot the author name.</p>
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
 
@@ -56,3 +37,25 @@ Build more project on Deep learning about Anime.
 Other Deep learning project.
 
 Learn more Deep learning topic.
+
+<div style = "
+  content: "";
+  clear: both;
+  display: table;
+">
+  <div style="  float: left;
+  width: 33.33%;
+  padding: 5px;
+  ">
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/off_mask.gif?raw=trueraw=true" width="70%" >
+        <img src="https://github.com/JonathanSum/JonathanSum/blob/master/mask_on.gif?raw=trueraw=true" width="70%" >
+  </div>
+  <div style="  float: left;
+  width: 33.33%;
+  padding: 5px;
+  ">
+
+
+  </div>
+
+</div>
