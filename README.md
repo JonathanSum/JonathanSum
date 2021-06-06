@@ -1,6 +1,6 @@
 Greeting.
 
-[Image classifier project with Reactjs in the bowser only](https://github.com/JonathanSum/JavaScriptClassifier)<br>
+[Image classifier project with Reactjs in the bowser without backend](https://github.com/JonathanSum/JavaScriptClassifier)<br>
 <img src="https://raw.githubusercontent.com/JonathanSum/JonathanSum/master/hsl_p1.gif"><br>
 
 
