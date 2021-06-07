@@ -48,7 +48,7 @@ Learn more Deep learning topic.
   padding: 5px;
   ">
     <img src="https://github.com/JonathanSum/JonathanSum/blob/master/off_mask.gif?raw=trueraw=true" width="30%" >
-        <img src="https://github.com/JonathanSum/JonathanSum/blob/master/mask_on.gif?raw=trueraw=true" width="30%" >
+        <img src="https://github.com/JonathanSum/JonathanSum/blob/master/mask_on.gif?raw=trueraw=true" width="60%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
