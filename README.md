@@ -47,7 +47,7 @@ Learn more Deep learning topic.
   width: 33.33%;
   padding: 5px;
   ">
-    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/two_edit.png?raw=trueraw=true" width="30%" >
+    <img src="https://github.com/JonathanSum/JonathanSum/blob/master/two_edit.png?raw=trueraw=true" width="50%" >
   </div>
   <div style="  float: left;
   width: 33.33%;
