@@ -9,8 +9,8 @@ Greeting.
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
 
-<img src="https://aws1.discourse-cdn.com/dlai/optimized/2X/3/34fce8e01f7d84b67004ea512dce3c8848d029f6_2_666x500.jpeg" width="60%"><br>
-<img src="https://aws1.discourse-cdn.com/dlai/original/2X/4/4d9002169504a17db2fbf6e2a702fb04ab875f9e.jpeg" width="40%"><br>
+<img src="https://camo.githubusercontent.com/cc7d06c954a20757da15cc4f9c762ccb420f95632a2c62967d50f5217c33c362/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="60%"><br>
+<img src="https://camo.githubusercontent.com/cc7d06c954a20757da15cc4f9c762ccb420f95632a2c62967d50f5217c33c362/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="40%"><br>
 
 
 [Image classifier project with Reactjs in the bowser without backend](https://github.com/JonathanSum/JavaScriptClassifier)<br>
