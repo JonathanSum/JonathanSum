@@ -4,11 +4,12 @@ Greeting.
 
 
 
-
+[Jewelry Store website with booking function and talking with API in React.js and CSS grid](https://github.com/JonathanSum/React-Front-End-CapStone-)
+<img src="https://imgur.com/BryEe5g.jpg" width="800px"/>
 
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
-
+Second Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture. Right picture is prediction and the left is truth label or correct answer.
 <img src="https://camo.githubusercontent.com/cc7d06c954a20757da15cc4f9c762ccb420f95632a2c62967d50f5217c33c362/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="60%"><br>
 <img src="https://camo.githubusercontent.com/cc7d06c954a20757da15cc4f9c762ccb420f95632a2c62967d50f5217c33c362/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="40%"><br>
 
@@ -33,16 +34,6 @@ Thus, you can see it is not perfect that it often only colors the hair and face 
 <img src="https://forums.fast.ai/uploads/default/original/3X/c/4/c4196b65edbe41a277e992eae9f0c5e60bcb897a.jpeg" width="60%">
 
 
-Second Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture.
-Right picture is prediction and the left is truth label or correct answer.
-<img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg" width="60%">
-<img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg" width="60%">
-<img src="https://forums.fast.ai/uploads/default/original/3X/b/3/b37a48e2fe7f5a406bc0e0a9568d14f322368f8e.jpeg" width="60%">
-<img src="https://forums.fast.ai/uploads/default/original/3X/a/e/aed819973a7f9a85ef521c5c1914638b1d90ea3d.jpeg" width="60%">
-
-
-Don't forget to check out my projects and repo in below👇
-For example, coloring with deeplearning, or possible NLP and Graph NN in future.
 
 
 
