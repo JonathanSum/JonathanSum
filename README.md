@@ -9,7 +9,7 @@ Greeting.
 
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
-Second Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture. Right picture is prediction and the left is truth label or correct answer.
+Second Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture. Right picture is prediction and the left is truth label or correct answer.<br>
 <img src="https://camo.githubusercontent.com/f1b3071637127f7a279bc75356bfdc54afcbe83044690639170cd24218b3fb07/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="60%"><br>
 <img src="https://camo.githubusercontent.com/f1b3071637127f7a279bc75356bfdc54afcbe83044690639170cd24218b3fb07/68747470733a2f2f666f72756d732e666173742e61692f75706c6f6164732f64656661756c742f6f726967696e616c2f33582f342f322f343230353830313737366639336265626133336261393731356139626133306364376265353233622e6a706567" width="40%"><br>
 
