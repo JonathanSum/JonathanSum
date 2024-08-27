@@ -58,3 +58,4 @@ Thus, you can see it is not perfect that it often only colors the hair and face 
   </div>
 
 </div>
+<img src="[https://github.com/JonathanSum/JonathanSum/blob/master/two_edit.png](https://pbs.twimg.com/media/F7renuhakAAhKPf?format=jpg)?raw=trueraw=true" width="50%" > 
