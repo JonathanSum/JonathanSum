@@ -1,5 +1,5 @@
-Greeting.
-<img src="https://pbs.twimg.com/media/F7renuhakAAhKPf?format=jpg"  width="50%" > 
+Greeting.<br>
+<img src="https://pbs.twimg.com/media/F7renuhakAAhKPf?format=jpg"  width="80%" > 
 [ImageNet deployed with Reactjs](https://github.com/pytorch/serve/pull/1146)<br>
 <img src="https://user-images.githubusercontent.com/21982975/125068386-455fe600-e06a-11eb-892b-14de174606fc.gif"><br>
 
