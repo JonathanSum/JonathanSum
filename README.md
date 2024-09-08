@@ -1,12 +1,12 @@
 Greeting.
 <img src="https://pbs.twimg.com/media/F7renuhakAAhKPf?format=jpg" > 
 [ImageNet deployed with Reactjs](https://github.com/pytorch/serve/pull/1146)<br>
-<img src="https://user-images.githubusercontent.com/21982975/125068386-455fe600-e06a-11eb-892b-14de174606fc.gif  width="200px"><br>
+<img src="https://user-images.githubusercontent.com/21982975/125068386-455fe600-e06a-11eb-892b-14de174606fc.gif  width="50%""><br>
 
 
 
 [Jewelry Store website with booking function and talking with API in React.js and CSS grid](https://github.com/JonathanSum/React-Front-End-CapStone-)
-<img src="https://imgur.com/BryEe5g.jpg" width="10%"/>
+<img src="https://imgur.com/BryEe5g.jpg" width="100%"/>
 
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
