@@ -5,8 +5,8 @@ Greeting.<br>
 
 
 
-[Jewelry Store website with booking function and talking with API in React.js and CSS grid](https://github.com/JonathanSum/React-Front-End-CapStone-)
-<img src="https://imgur.com/BryEe5g.jpg" width="100%"/>
+[Jewelry Store website with booking function and talking with API in React.js and CSS grid](https://github.com/JonathanSum/React-Front-End-CapStone-)<br>
+<img src="https://imgur.com/BryEe5g.jpg" width="100%"/><br>
 
 
 [Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized](https://github.com/JonathanSum/Deep_learning_Coloring-Anime-image-and-satellite-image-house-damge-level-colorized)
