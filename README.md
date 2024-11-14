@@ -1,4 +1,4 @@
-<img src="https://github.com/JonathanSum/JonathanSum/blob/master/1.jpg?raw=true"  width="52%" > <br>
+<img src="https://github.com/JonathanSum/JonathanSum/blob/master/1.jpg?raw=true"  width="45%" > <br>
 [ImageNet deployed with Reactjs](https://github.com/pytorch/serve/pull/1146)<br>
 <img src="https://user-images.githubusercontent.com/21982975/125068386-455fe600-e06a-11eb-892b-14de174606fc.gif"><br>
 
